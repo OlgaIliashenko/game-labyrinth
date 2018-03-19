@@ -1,0 +1,13 @@
+.btn {
+    min-width: 50px;
+    min-height: 50px;
+    margin-bottom: 5px;
+}
+
+.content-body {
+    width: 600px;
+}
+
+.result-info {
+    width: 200px;
+}
